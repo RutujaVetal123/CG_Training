@@ -1,0 +1,3 @@
+studid:50
+studname:Rutuja
+marks:90
